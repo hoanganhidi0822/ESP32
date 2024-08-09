@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../../../Face_Recognition"
+		},
+		{
+			"name": "Project1",
+			"path": "../../../Project1/Project1"
+		},
+		{
+			"name": "SHT30_SDCARD_MQTT_OTA",
+			"path": "../../SHT30_SDCARD_MQTT_OTA"
+		},
+		{
+			"name": "Chamber",
+			"path": "../../Chamber"
+		},
+		{
+			"name": "RS485_IDF_Chamber",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"string": "cpp"
+		}
+	}
+}
